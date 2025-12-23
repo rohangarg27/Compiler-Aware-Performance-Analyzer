@@ -1,0 +1,17 @@
+# binaries
+bin/
+
+# generated results
+results/
+
+# python cache
+__pycache__/
+*.pyc
+
+# editor files
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+
